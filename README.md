@@ -1,13 +1,17 @@
 <div align="center">
 
+<!-- ===================================================== -->
+<!--                     HEADER IMAGE                      -->
+<!-- ===================================================== -->
+
 <!-- Replace with your header image path -->
 <img src="./assets/header2.png" width="100%" />
 
 <br><br>
 
-# Hi 👋 I'm Ishika Sharma
+# ✨ Hi, I'm Ishika Sharma
 
-### Computer Engineering Student • AI/ML • Cybersecurity Learner
+### Computer Engineering Student • AI/ML Explorer • Cybersecurity Learner
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Frontend+Developer;Cybersecurity+Learner;Rust+Explorer;AI+Enthusiast;Building+Projects+One+Day+At+A+Time" />
 
@@ -19,11 +23,20 @@
 
 ---
 
+# 📖 My Journey
+
+> Every developer has a story.
+>
+> Mine began with curiosity, evolved through coding,
+> and continues through building projects that solve real problems.
+
+---
+
 <!-- ===================================================== -->
-<!--                    ABOUT ME                           -->
+<!--                    CHAPTER 1                          -->
 <!-- ===================================================== -->
 
-# 🌙 About Me
+# 📚 Chapter 1 : The Beginning
 
 <table>
 <tr>
@@ -32,17 +45,23 @@
 
 ### Who Am I?
 
-🎓 3rd Year Computer Engineering Student
+I am **Ishika Sharma**, a Computer Engineering student who enjoys turning ideas into reality through code.
 
-💠Learning Cybersecurity, Exploring Rust Programming,Interested in AI & ML....
----
+My journey started with learning how websites work and gradually expanded into:
 
+- Frontend Development
+- Artificial Intelligence
+- Machine Learning
+- Cybersecurity
+- Systems Programming
+
+Today, I spend my time learning, building, breaking things, fixing them again, and improving one project at a time.
 
 </td>
 
 <td width="45%">
 
-<!-- Replace with your image -->
+<!-- Replace with your image path -->
 <img src="./assets/about.png" width="100%"/>
 
 </td>
@@ -53,156 +72,22 @@
 ---
 
 <!-- ===================================================== -->
-<!--                    PORTFOLIO                          -->
+<!--                    CHAPTER 2                          -->
 <!-- ===================================================== -->
 
-# 🚀 Portfolio
-
-### Visit My Portfolio
-
-<a href="https://ishikasharrmaportfolio.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Visit%20Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
----
-
-<!-- ===================================================== -->
-<!--                  TECH STACK                           -->
-<!-- ===================================================== -->
-
-# ⚡ Tech Arsenal
-
-### Languages
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,rust"/>
-
-</p>
-
----
-
-### Frontend
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript"/>
-
-</p>
-
----
-
-### Backend
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-
-</p>
-
----
-
-### Databases
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql"/>
-
-</p>
-
----
-
-### Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode"/>
-
-</p>
-
----
-
-<!-- ===================================================== -->
-<!--                  FEATURED PROJECTS                    -->
-<!-- ===================================================== -->
-
-# 💎 Featured Projects
-
-###  Sentiment Analysis on Movie Reviews
-
-Machine Learning project that classifies movie reviews into positive and negative categories using NLP.
-
----
-
-
-<!-- ===================================================== -->
-<!--                  GITHUB STATS                         -->
-<!-- ===================================================== -->
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img width="48%"
-src="https://github-readme-stats.vercel.app/api?username=ishikasharma011&show_icons=true&theme=tokyonight"/>
-
-<img width="48%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishikasharma011&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<br>
-
-<p align="center">
-
-<img width="75%"
-src="https://github-readme-streak-stats.herokuapp.com?user=ishikasharma011&theme=tokyonight"/>
-
-</p>
-
----
-
-<!-- ===================================================== -->
-<!--                  CONNECT WITH ME                      -->
-<!-- ===================================================== -->
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="mailto:sharmaishika1105@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/ishika-sharma-8645b301">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/ishikasharma011">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-</p>
-
----
-
-
-<div align="center">
-
-<a href="https://ishikasharrmaportfolio.vercel.app/" target="_blank">
-
-<img src="./assets/footer.png" width="100%"/>
-
-</a>
-
-<br>
-
-
-
-Still Learning • Still Building
-
-</div>
+# 🌱 Chapter 2 : What I'm Exploring
+
+Currently my learning path looks like this:
+
+```text
+Frontend Development
+        ↓
+Backend Fundamentals
+        ↓
+Cybersecurity
+        ↓
+Rust Programming
+        ↓
+Artificial Intelligence
+        ↓
+Distributed Systems
