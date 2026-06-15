@@ -104,17 +104,10 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?u
 <br>
 
 <img width="49%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ishikasharma011&theme=tokyonight"/>
-
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ishikasharma011&theme=tokyonight"/
 <img width="49%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ishikasharma011&theme=tokyonight"/>
-
-<br>
-
-<img width="49%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ishikasharma011&theme=tokyonight"/>
-
-<img width="49%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ishikasharma011&theme=tokyonight"/><img width="49%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ishikasharma011&theme=tokyonight"/><img width="49%"
 src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ishikasharma011&theme=tokyonight"/>
 
 </div>
