@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Replace with your header image path -->
-<img src="./assets/header.png" width="100%" />
+<img src="./assets/header2.png" width="100%" />
 
 <br><br>
 
@@ -216,33 +216,6 @@ src="https://github-readme-streak-stats.herokuapp.com?user=ishikasharma011&theme
 
 ---
 
-<!-- ===================================================== -->
-<!--                  PHILOSOPHY                           -->
-<!-- ===================================================== -->
-
-
-
----
-
-<!-- ===================================================== -->
-<!--                  FUTURE GOALS                         -->
-<!-- ===================================================== -->
-
-
----
-
-<!-- ===================================================== -->
-<!--                  FOOTER IMAGE                         -->
-<!-- ===================================================== -->
-
-<!--
-IMPORTANT:
-
-Replace footer.png with your footer image.
-
-This image becomes clickable and opens your portfolio.
-
--->
 
 <div align="center">
 
