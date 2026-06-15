@@ -120,9 +120,7 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?u
 
 <div align="center">
 
-<a href="mailto:sharmaishika1105@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>  
-<a href="https://www.linkedin.com/in/ishika-sharma-8645b301/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>  
-<a href="https://github.com/ishikasharma011"><img src="https://skillicons.dev/icons?i=github" /></a>
+<a href="mailto:sharmaishika1105@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>  <a href="https://www.linkedin.com/in/ishika-sharma-8645b301/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>  <a href="https://github.com/ishikasharma011"><img src="https://skillicons.dev/icons?i=github" /></a>
 
 </div>
 
