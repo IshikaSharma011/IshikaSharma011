@@ -34,16 +34,7 @@
 
 🎓 3rd Year Computer Engineering Student
 
-💠Learning Cybersecurity
-
-🦀 Exploring Rust Programming
-
-🤖 Interested in AI & ML
-
-💻 Full Stack Development
-
-📚 Currently preparing for internships and placements
-
+💠Learning Cybersecurity, Exploring Rust Programming,Interested in AI & ML....
 ---
 
 
@@ -52,7 +43,7 @@
 <td width="45%">
 
 <!-- Replace with your image -->
-<img src="./assets/scene.png" width="100%"/>
+<img src="./assets/about.png" width="100%"/>
 
 </td>
 
@@ -137,29 +128,12 @@
 
 # 💎 Featured Projects
 
-### 🎬 Sentiment Analysis on Movie Reviews
+###  Sentiment Analysis on Movie Reviews
 
 Machine Learning project that classifies movie reviews into positive and negative categories using NLP.
 
 ---
 
-### 🤖 User Question Answering System
-
-A BERT-powered intelligent question-answering application capable of understanding context.
-
----
-
-### 📈 Stock Master
-
-Stock analysis and prediction project using Machine Learning techniques.
-
----
-
-### 🏫 Attendance Management System
-
-Desktop application built with Python and MySQL.
-
----
 
 <!-- ===================================================== -->
 <!--                  GITHUB STATS                         -->
@@ -225,9 +199,9 @@ src="https://github-readme-streak-stats.herokuapp.com?user=ishikasharma011&theme
 
 </a>
 
-<br><br>
+<br>
 
-### Thanks for Visiting ✨
+
 
 Still Learning • Still Building
 
