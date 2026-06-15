@@ -1,201 +1,261 @@
 <div align="center">
 
-<img src="./assets/banner.png" width="100%"/>
+<!-- Replace with your header image path -->
+<img src="./assets/header.gif" width="100%" />
+
+<br><br>
 
 # Hi 👋 I'm Ishika Sharma
 
-### Computer Engineering Student • Builder • Future Cybersecurity Engineer
+### Computer Engineering Student • AI/ML • Cybersecurity Learner
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Frontend+Developer;Cybersecurity+Learner;Rust+Explorer;AI+Enthusiast;Building+Projects+One+Idea+At+A+Time" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Frontend+Developer;Cybersecurity+Learner;Rust+Explorer;AI+Enthusiast;Building+Projects+One+Day+At+A+Time" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=ishikasharma011&label=Profile+Views&color=8A2BE2&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=ishikasharma011&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
 
 </div>
 
 ---
+
+<!-- ===================================================== -->
+<!--                    ABOUT ME                           -->
+<!-- ===================================================== -->
 
 # 🌙 About Me
 
-```txt
-Name      : Ishika Sharma
-Education : B.E. Computer Engineering
-Location  : India
-Current   : Learning, Building & Exploring
-Goal      : Software Engineer + Cybersecurity Specialist
-```
+<table>
+<tr>
 
-- 🎓 Currently in 3rd Year Computer Engineering
-- 🔐 Learning Cybersecurity
-- 🦀 Exploring Rust Programming
-- 🤖 Interested in AI & Machine Learning
-- 🌐 Building Full Stack Applications
-- 🚀 Always learning something new
+<td width="55%">
+
+### Who Am I?
+
+🎓 3rd Year Computer Engineering Student
+
+💠Learning Cybersecurity
+
+🦀 Exploring Rust Programming
+
+🤖 Interested in AI & ML
+
+💻 Full Stack Development
+
+📚 Currently preparing for internships and placements
+
+---
+
+
+</td>
+
+<td width="45%">
+
+<!-- Replace with your image -->
+<img src="./assets/scene.png" width="100%"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# 🛠 Tech Arsenal
+<!-- ===================================================== -->
+<!--                    PORTFOLIO                          -->
+<!-- ===================================================== -->
 
-## Languages
+# 🚀 Portfolio
 
-<p align="center">
+### Visit My Portfolio
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,rust,js" />
+<a href="https://ishikasharrmaportfolio.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Visit%20Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-</p>
+---
 
-## Frontend
+<!-- ===================================================== -->
+<!--                  TECH STACK                           -->
+<!-- ===================================================== -->
 
-<p align="center">
+# ⚡ Tech Arsenal
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
-
-</p>
-
-## Backend
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask" />
-
-</p>
-
-## Databases
+### Languages
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-
-</p>
-
-## Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,rust"/>
 
 </p>
 
 ---
+
+### Frontend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript"/>
+
+</p>
+
+---
+
+### Backend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+</p>
+
+---
+
+### Databases
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql"/>
+
+</p>
+
+---
+
+### Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode"/>
+
+</p>
+
+---
+
+<!-- ===================================================== -->
+<!--                  FEATURED PROJECTS                    -->
+<!-- ===================================================== -->
 
 # 💎 Featured Projects
 
-## 🎬 Sentiment Analysis On Movie Review
+### 🎬 Sentiment Analysis on Movie Reviews
 
-Machine Learning project that classifies movie reviews as positive or negative using NLP techniques.
-
----
-
-## 🤖 User Question Answering System
-
-BERT-based Question Answering System capable of generating accurate answers from given context.
+Machine Learning project that classifies movie reviews into positive and negative categories using NLP.
 
 ---
 
-## 📈 Stock Master
+### 🤖 User Question Answering System
 
-Stock prediction and analysis project using Machine Learning techniques.
+A BERT-powered intelligent question-answering application capable of understanding context.
+
+---
+
+### 📈 Stock Master
+
+Stock analysis and prediction project using Machine Learning techniques.
 
 ---
 
-## 🏫 Attendance Management System
+### 🏫 Attendance Management System
 
-Python Desktop Application with MySQL integration for student attendance tracking.
+Desktop application built with Python and MySQL.
 
 ---
+
+<!-- ===================================================== -->
+<!--                  GITHUB STATS                         -->
+<!-- ===================================================== -->
 
 # 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ishikasharma011&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%"
+src="https://github-readme-stats.vercel.app/api?username=ishikasharma011&show_icons=true&theme=tokyonight"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishikasharma011&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishikasharma011&layout=compact&theme=tokyonight"/>
 
-</div>
+</p>
 
 <br>
 
-<div align="center">
+<p align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ishikasharma011&theme=tokyonight&hide_border=true"/>
+<img width="75%"
+src="https://github-readme-streak-stats.herokuapp.com?user=ishikasharma011&theme=tokyonight"/>
 
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ishikasharma011&theme=tokyo-night&hide_border=true"/>
-
-</div>
+</p>
 
 ---
 
-# 🎯 2026 Goals
+<!-- ===================================================== -->
+<!--                  CONNECT WITH ME                      -->
+<!-- ===================================================== -->
 
-- 🚀 Get Software Engineering Internship
-- 🔐 Learn Cybersecurity Fundamentals
-- 🦀 Become Productive in Rust
-- 🌟 Contribute to Open Source
-- 💻 Build 10 High Quality Projects
-- 📈 Reach 500+ GitHub Contributions
+# 🌐 Connect With Me
 
----
-
-# 🌌 Philosophy
-
-> A project starts as a thought.
->
-> A skill starts as confusion.
->
-> Progress starts when you build anyway.
-
----
-
-# 🌐 Portfolio
-
-<div align="center">
-
-<a href="https://ishikasharrmaportfolio.vercel.app/">
-
-<img src="https://img.shields.io/badge/Visit%20Portfolio-000000?style=for-the-badge&logo=vercel"/>
-
-</a>
-
-</div>
-
----
-
-# 📫 Connect With Me
-
-<div align="center">
+<p align="center">
 
 <a href="mailto:sharmaishika1105@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/ishika-sharma-8645b301">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
+
+&nbsp;&nbsp;
 
 <a href="https://github.com/ishikasharma011">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-</div>
+</p>
 
 ---
 
+<!-- ===================================================== -->
+<!--                  PHILOSOPHY                           -->
+<!-- ===================================================== -->
+
+
+
+---
+
+<!-- ===================================================== -->
+<!--                  FUTURE GOALS                         -->
+<!-- ===================================================== -->
+
+
+---
+
+<!-- ===================================================== -->
+<!--                  FOOTER IMAGE                         -->
+<!-- ===================================================== -->
+
+<!--
+IMPORTANT:
+
+Replace footer.png with your footer image.
+
+This image becomes clickable and opens your portfolio.
+
+-->
+
 <div align="center">
 
-## ✨ Thanks For Visiting
+<a href="https://ishikasharrmaportfolio.vercel.app/" target="_blank">
 
-### "Still learning. Still building."
+<img src="./assets/footer.png" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6A11CB,100:2575FC"/>
+</a>
+
+<br><br>
+
+### Thanks for Visiting ✨
+
+Still Learning • Still Building
 
 </div>
