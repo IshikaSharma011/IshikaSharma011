@@ -92,9 +92,8 @@ Machine Learning project that classifies movie reviews into positive and negativ
 <!--                  GITHUB STATS                         -->
 <!-- ===================================================== -->
 
-# 📊 GitHub Analytics
 
-# 📊 GitHub Dashboard
+# GitHub Dashboard
 
 <div align="center">
 
@@ -106,7 +105,7 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?u
 <img width="45%"
 src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ishikasharma011&theme=tokyonight"/><img width="45%"
 src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ishikasharma011&theme=tokyonight"/>
-<img width="43%"
+<img width="45%"
 src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ishikasharma011&theme=tokyonight"/><img width="45%"
 src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ishikasharma011&theme=tokyonight"/>
 
@@ -120,7 +119,7 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?u
 <!--                  CONNECT WITH ME                      -->
 <!-- ===================================================== -->
 
-# 🌐 Connect With Me
+#  Connect With Me
 
 <div align="center">
 
@@ -132,7 +131,7 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?u
 
 ---
 
-
+#  Visit my Portfolio
 <div align="center">
 
 <a href="https://ishikasharrmaportfolio.vercel.app/" target="_blank">
