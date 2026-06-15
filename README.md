@@ -94,22 +94,32 @@ Machine Learning project that classifies movie reviews into positive and negativ
 
 # 📊 GitHub Analytics
 
-<p align="center">
+# 📊 GitHub Dashboard
 
-<img width="48%"
-src="https://github-readme-stats.vercel.app/api?username=ishikasharma011&show_icons=true&theme=tokyonight"/>
+<div align="center">
 
-<img width="48%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishikasharma011&layout=compact&theme=tokyonight"/>
+<img width="100%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishikasharma011&theme=tokyonight"/>
 
-</p>
+<br>
 
-<p align="center">
+<img width="49%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ishikasharma011&theme=tokyonight"/>
 
-<img width="75%"
-src="https://github-readme-streak-stats.herokuapp.com?user=ishikasharma011&theme=tokyonight"/>
+<img width="49%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ishikasharma011&theme=tokyonight"/>
 
-</p>
+<br>
+
+<img width="49%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ishikasharma011&theme=tokyonight"/>
+
+<img width="49%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ishikasharma011&theme=tokyonight"/>
+
+</div>
+
+---
 
 ---
 
@@ -119,25 +129,13 @@ src="https://github-readme-streak-stats.herokuapp.com?user=ishikasharma011&theme
 
 # 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
 
-<a href="mailto:sharmaishika1105@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
+<a href="mailto:sharmaishika1105@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://www.linkedin.com/in/ishika-sharma-8645b301/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://github.com/ishikasharma011"><img src="https://skillicons.dev/icons?i=github" /></a>
 
-&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/ishika-sharma-8645b301">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/ishikasharma011">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-</p>
+</div>
 
 ---
 
