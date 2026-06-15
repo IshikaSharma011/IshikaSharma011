@@ -5,11 +5,11 @@
 
 <br><br>
 
-# Hi 👋 I'm Ishika Sharma
+# Hello.... I'm Ishika Sharma....
 
 ### Computer Engineering Student • AI/ML • Cybersecurity Learner
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Frontend+Developer;Cybersecurity+Learner;Rust+Explorer;AI+Enthusiast;Building+Projects+One+Day+At+A+Time" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Frontend+Developer;Cybersecurity+Learner;AI+Enthusiast;Building+Projects" />
 
 <br>
 
@@ -23,7 +23,7 @@
 <!--                    ABOUT ME                           -->
 <!-- ===================================================== -->
 
-# 🌙 About Me
+# About Me
 
 <table>
 <tr>
@@ -34,7 +34,6 @@
 
 🎓 3rd Year Computer Engineering Student
 
-💠Learning Cybersecurity, Exploring Rust Programming,Interested in AI & ML....
 ---
 
 
@@ -53,60 +52,14 @@
 ---
 
 <!-- ===================================================== -->
-<!--                    PORTFOLIO                          -->
-<!-- ===================================================== -->
-
-# 🚀 Portfolio
-
-### Visit My Portfolio
-
-<a href="https://ishikasharrmaportfolio.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Visit%20Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
----
-
-<!-- ===================================================== -->
 <!--                  TECH STACK                           -->
 <!-- ===================================================== -->
 
 # ⚡ Tech Arsenal
 
-### Languages
-
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,rust"/>
-
-</p>
-
----
-
-### Frontend
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript"/>
-
-</p>
-
----
-
-### Backend
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-
-</p>
-
----
-
-### Databases
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,html,css,javascript,mysql,mongodb,postgresql"/>
 
 </p>
 
@@ -150,8 +103,6 @@ src="https://github-readme-stats.vercel.app/api?username=ishikasharma011&show_ic
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishikasharma011&layout=compact&theme=tokyonight"/>
 
 </p>
-
-<br>
 
 <p align="center">
 
@@ -202,7 +153,5 @@ src="https://github-readme-streak-stats.herokuapp.com?user=ishikasharma011&theme
 <br>
 
 
-
-Still Learning • Still Building
 
 </div>
