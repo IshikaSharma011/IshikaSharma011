@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Replace with your header image path -->
-<img src="./assets/header.gif" width="100%" />
+<img src="./assets/header.png" width="100%" />
 
 <br><br>
 
