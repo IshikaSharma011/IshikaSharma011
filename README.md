@@ -1,25 +1,201 @@
-<h1 align="center">Hi 👋, I'm Ishika Sharma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishikasharma011&label=Profile%20views&color=0e75b6&style=flat" alt="ishikasharma011" /> </p>
+<img src="./assets/banner.png" width="100%"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishikasharma011" alt="ishikasharma011" /></a> </p>
+# Hi 👋 I'm Ishika Sharma
 
-- I’m currently **in 3rd year computer engineering**
+### Computer Engineering Student • Builder • Future Cybersecurity Engineer
 
-- 👨‍💻 All of my projects are available at [https://ishikasharrmaportfolio.vercel.app/](https://ishikasharrmaportfolio.vercel.app/)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Frontend+Developer;Cybersecurity+Learner;Rust+Explorer;AI+Enthusiast;Building+Projects+One+Idea+At+A+Time" />
 
-- 📫 How to reach me **sharmaishika1105@gmail.com**
+<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<img src="https://komarev.com/ghpvc/?username=ishikasharma011&label=Profile+Views&color=8A2BE2&style=for-the-badge" />
+
+</div>
+
+---
+
+# 🌙 About Me
+
+```txt
+Name      : Ishika Sharma
+Education : B.E. Computer Engineering
+Location  : India
+Current   : Learning, Building & Exploring
+Goal      : Software Engineer + Cybersecurity Specialist
+```
+
+- 🎓 Currently in 3rd Year Computer Engineering
+- 🔐 Learning Cybersecurity
+- 🦀 Exploring Rust Programming
+- 🤖 Interested in AI & Machine Learning
+- 🌐 Building Full Stack Applications
+- 🚀 Always learning something new
+
+---
+
+# 🛠 Tech Arsenal
+
+## Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,rust,js" />
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## Frontend
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishikasharma011&show_icons=true&locale=en&layout=compact" alt="ishikasharma011" /></p>
+<p align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishikasharma011&show_icons=true&locale=en" alt="ishikasharma011" /></p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishikasharma011&" alt="ishikasharma011" /></p>
+</p>
+
+## Backend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask" />
+
+</p>
+
+## Databases
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+
+</p>
+
+## Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
+
+</p>
+
+---
+
+# 💎 Featured Projects
+
+## 🎬 Sentiment Analysis On Movie Review
+
+Machine Learning project that classifies movie reviews as positive or negative using NLP techniques.
+
+---
+
+## 🤖 User Question Answering System
+
+BERT-based Question Answering System capable of generating accurate answers from given context.
+
+---
+
+## 📈 Stock Master
+
+Stock prediction and analysis project using Machine Learning techniques.
+
+---
+
+## 🏫 Attendance Management System
+
+Python Desktop Application with MySQL integration for student attendance tracking.
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ishikasharma011&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishikasharma011&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ishikasharma011&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ishikasharma011&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Get Software Engineering Internship
+- 🔐 Learn Cybersecurity Fundamentals
+- 🦀 Become Productive in Rust
+- 🌟 Contribute to Open Source
+- 💻 Build 10 High Quality Projects
+- 📈 Reach 500+ GitHub Contributions
+
+---
+
+# 🌌 Philosophy
+
+> A project starts as a thought.
+>
+> A skill starts as confusion.
+>
+> Progress starts when you build anyway.
+
+---
+
+# 🌐 Portfolio
+
+<div align="center">
+
+<a href="https://ishikasharrmaportfolio.vercel.app/">
+
+<img src="https://img.shields.io/badge/Visit%20Portfolio-000000?style=for-the-badge&logo=vercel"/>
+
+</a>
+
+</div>
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="mailto:sharmaishika1105@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/ishikasharma011">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## ✨ Thanks For Visiting
+
+### "Still learning. Still building."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6A11CB,100:2575FC"/>
+
+</div>
