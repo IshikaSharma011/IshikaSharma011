@@ -55,7 +55,7 @@
 <!--                  TECH STACK                           -->
 <!-- ===================================================== -->
 
-# ⚡ Tech Arsenal
+#  Tech Arsenal
 
 <p align="center">
 
@@ -79,7 +79,7 @@
 <!--                  FEATURED PROJECTS                    -->
 <!-- ===================================================== -->
 
-# 💎 Featured Projects
+#  Projects
 
 ###  Sentiment Analysis on Movie Reviews
 
@@ -102,11 +102,8 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?u
 
 <br>
 
-<img width="45%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ishikasharma011&theme=tokyonight"/><img width="45%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ishikasharma011&theme=tokyonight"/>
-<img width="45%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ishikasharma011&theme=tokyonight"/><img width="45%"
+<img width="49%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ishikasharma011&theme=tokyonight"/> <img width="49%"
 src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ishikasharma011&theme=tokyonight"/>
 
 </div>
@@ -123,8 +120,8 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?u
 
 <div align="center">
 
-<a href="mailto:sharmaishika1105@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-<a href="https://www.linkedin.com/in/ishika-sharma-8645b301/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="mailto:sharmaishika1105@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>  
+<a href="https://www.linkedin.com/in/ishika-sharma-8645b301/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>  
 <a href="https://github.com/ishikasharma011"><img src="https://skillicons.dev/icons?i=github" /></a>
 
 </div>
