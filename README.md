@@ -55,17 +55,17 @@
 <!--                  TECH STACK                           -->
 <!-- ===================================================== -->
 
-#  Tech Arsenal
+#  Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,html,css,javascript,mysql,mongodb,postgresql"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,html,css,javascript,react,mysql,mongodb,postgresql"/>
 
 </p>
 
 ---
 
-### Tools
+#  Tools
 
 <p align="center">
 
