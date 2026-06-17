@@ -59,7 +59,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,html,css,javascript,react,mysql,mongodb,postgresql"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,html,css,javascript,react,mysql,mongodb,postgresql,postman"/>
 
 </p>
 
