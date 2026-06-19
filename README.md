@@ -34,7 +34,6 @@
 
 I'm a 3rd-year Computer Engineering student passionate about software development, AI/ML, and cybersecurity. I enjoy building full-stack web applications, exploring emerging technologies, and solving problems through code. Beyond technology, I love writing poetry, sketching, content creation, and stargazing.
 
----
 
 
 </td>
