@@ -80,9 +80,9 @@ I'm a 3rd-year Computer Engineering student passionate about software developmen
 
 #  Projects
 
-###  Sentiment Analysis on Movie Reviews
+###  Journal App with Mood Tracking
 
-Machine Learning project that classifies movie reviews into positive and negative categories using NLP.
+Full Stack Web Application that enables users to securely record daily journal entries, track moods and visualize emotional patterns over time. Features authentication, CRUD operations, responsive design, mood analytics and database integration for personalized insights.
 
 ---
 
