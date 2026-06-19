@@ -109,8 +109,6 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?u
 
 ---
 
----
-
 <!-- ===================================================== -->
 <!--                  CONNECT WITH ME                      -->
 <!-- ===================================================== -->
