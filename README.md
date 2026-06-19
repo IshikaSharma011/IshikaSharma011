@@ -7,7 +7,7 @@
 
 # Hello.... I'm Ishika Sharma....
 
-### Computer Engineering Student • AI/ML • Cybersecurity Learner
+### Computer Engineering Student • Learner
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Frontend+Developer;Cybersecurity+Learner;AI+Enthusiast;Building+Projects" />
 
