@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Replace with your header image path -->
+
 <img src="./assets/header2.png" width="100%" />
 
 <br><br>
