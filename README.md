@@ -12,8 +12,6 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=ishikasharma011&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
-
 </div>
 
 ---
@@ -126,6 +124,9 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?u
 <div align="center">
 
 <a href="https://ishikasharrmaportfolio.vercel.app/" target="_blank">
+<br>
+<img src="https://komarev.com/ghpvc/?username=ishikasharma011&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+
 
 <img src="./assets/footer.png" width="100%"/>
 
