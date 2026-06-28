@@ -1,7 +1,6 @@
 <div align="center">
 
 <img src="./assets/header2.png" width="100%" />
-
 <br>
 
 # Hello.... I'm Ishika Sharma....
