@@ -82,29 +82,6 @@ Full Stack Web Application that enables users to securely record daily journal e
 
 ---
 
-
-<!-- ===================================================== -->
-<!--                  GITHUB STATS                         -->
-<!-- ===================================================== -->
-
-
-# GitHub Dashboard
-
-<div align="center">
-
-<img width="100%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishikasharma011&theme=tokyonight"/>
-
-<br>
-
-<img width="49%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ishikasharma011&theme=tokyonight"/> <img width="49%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ishikasharma011&theme=tokyonight"/>
-
-</div>
-
----
-
 <!-- ===================================================== -->
 <!--                  CONNECT WITH ME                      -->
 <!-- ===================================================== -->
