@@ -118,18 +118,11 @@ Outside technology, I'm into **poetry, sketching, dancing, singing, ukulele, con
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="[https://www.linkedin.com/in/ishika-sharma-8645b301/](https://www.linkedin.com/in/ishika-sharma-86465b301/)">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:sharmaishika1105@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/ishikasharma011">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://ishikasharrmaportfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
+<div align="center">
+
+<a href="mailto:sharmaishika1105@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>  <a href="https://www.linkedin.com/in/ishika-sharma-8645b301/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>  <a href="https://github.com/ishikasharma011"><img src="https://skillicons.dev/icons?i=github" /></a>
+
+</div>
 </p>
 
 ---
