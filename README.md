@@ -118,7 +118,7 @@ Outside technology, I'm into **poetry, sketching, dancing, singing, ukulele, con
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ishika-sharma-8645b301/">
+  <a href="[https://www.linkedin.com/in/ishika-sharma-8645b301/](https://www.linkedin.com/in/ishika-sharma-86465b301/)">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:sharmaishika1105@gmail.com">
@@ -172,7 +172,9 @@ Outside technology, I'm into **poetry, sketching, dancing, singing, ukulele, con
 Stubborn enough to build the answer."**
 
 </p>
-#  Visit my Portfolio
+---
+<p align="center">
+###  Visit my Portfolio
 <div align="center">
 
 <a href="https://ishikasharrmaportfolio.vercel.app/" target="_blank">
@@ -186,6 +188,5 @@ Stubborn enough to build the answer."**
 
 <br>
 
-
-
 </div>
+</p>
