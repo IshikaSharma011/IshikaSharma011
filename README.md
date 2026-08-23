@@ -155,20 +155,8 @@ Outside technology, I'm into **poetry, sketching, dancing, singing, ukulele, con
 </p>
 
 ---
-
-
-<p align="center">
-
-### 💜 Building • Learning • Exploring
-
-**"Curious enough to ask why.
-Stubborn enough to build the answer."**
-
-</p>
----
 <p align="center">
 ###  Visit my Portfolio
-<div align="center">
 
 <a href="https://ishikasharrmaportfolio.vercel.app/" target="_blank">
 <br>
@@ -181,5 +169,15 @@ Stubborn enough to build the answer."**
 
 <br>
 
-</div>
+</p>
+---
+
+
+<p align="center">
+
+### 💜 Building • Learning • Exploring
+
+**"Curious enough to ask why.
+Stubborn enough to build the answer."**
+
 </p>
