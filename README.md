@@ -78,7 +78,6 @@ Outside technology, I'm into **poetry, sketching, dancing, singing, ukulele, con
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge\&logo=TensorFlow\&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge\&logo=Keras\&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge\&logo=pytorch\&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-white?style=for-the-badge\&logo=opencv\&logoColor=black)
@@ -138,11 +137,6 @@ Outside technology, I'm into **poetry, sketching, dancing, singing, ukulele, con
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishikasharma011&theme=tokyonight&hide_border=false&show_icons=true" height="180em" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishikasharma011&theme=tokyonight&hide_border=false&layout=compact" height="180em" alt="Top Languages"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=ishikasharma011&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
 </p>
 
@@ -178,3 +172,20 @@ Outside technology, I'm into **poetry, sketching, dancing, singing, ukulele, con
 Stubborn enough to build the answer."**
 
 </p>
+#  Visit my Portfolio
+<div align="center">
+
+<a href="https://ishikasharrmaportfolio.vercel.app/" target="_blank">
+<br>
+<img src="https://komarev.com/ghpvc/?username=ishikasharma011&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+
+
+<img src="./assets/footer.png" width="100%"/>
+
+</a>
+
+<br>
+
+
+
+</div>
