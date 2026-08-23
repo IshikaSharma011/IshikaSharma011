@@ -18,11 +18,11 @@ const ishika = {
   role:       "Computer Engineering Student",
   location:   "India 🇮🇳",
   currently:  ["Full-Stack Development", "Cybersecurity", "AI/ML", "DSA"],
-  learning:   ["Rust", "System Programming", "Distributed Systems"],
-  building:   ["DaemonOE", "Synora", "Journal App"],
-  interests:  ["Cybersecurity", "AI", "Creative Technology"],
+  learning:   ["System Programming", "Distributed Systems"],
+  building:   ["Synora", "Journal App"],
+  interests:  ["Cybersecurity", "AI"],
   collab:     ["Open-source projects", "Hackathons", "Tech projects"],
-  funFact:    "I write poetry, sketch, and stare at stars when I'm not coding 🌌",
+  funFact:    "I write poetry, sketch and stare at stars when I'm not coding 🌌",
   contact:    "sharmaishika1105@gmail.com",
 };
 ```
@@ -53,16 +53,6 @@ Currently, I'm exploring:
 
 Outside technology, I'm into **poetry, sketching, dancing, singing, ukulele, content creation, editing, and stargazing**.
 
----
-
-## 🎓 Education & Background
-
-* 🎓 **Computer Engineering Student**
-* 🏫 Guru Gobind Singh College of Engineering and Research Centre, Nashik
-* 📚 Currently in my **final year**
-* 🎯 Preparing for **GATE 2027** and technical placements
-
----
 
 ## 💻 Tech Stack
 
@@ -126,176 +116,6 @@ Outside technology, I'm into **poetry, sketching, dancing, singing, ukulele, con
 
 ---
 
-## 🚀 Featured Projects
-
-### 🖥️ DaemonOE
-
-**A Unified Operating Environment for Personal Devices**
-
-A local-first distributed operating environment designed to make multiple personal devices feel like **one searchable, discoverable and resource-aware digital workspace**.
-
-**Core ideas:**
-
-* 🔎 Distributed Search
-* 📱 Device Discovery
-* 🔗 Service Discovery
-* 📊 Resource Monitoring
-* 🗓️ Project Timeline Engine
-* 🌐 Distributed Personal Workspace
-
-**Exploring:** `React` `C++` `Rust` `Distributed Systems`
-
----
-
-### 📝 Synora
-
-**Smart Notes & Knowledge Management**
-
-A smart note-taking project focused on organizing information into a searchable personal knowledge system.
-
-**Exploring:** `Python` `AI` `Search` `Knowledge Management`
-
----
-
-### 📖 Journal App with Mood Tracking
-
-A full-stack journal application designed for maintaining personal journals and understanding patterns across entries.
-
-**Features:**
-
-* 🔐 Authentication
-* 📝 CRUD journal entries
-* 📊 Mood tracking
-* 📈 Mood analytics
-* 📱 Responsive interface
-* 🗄️ Database integration
-* 🛡️ Application security
-
-**Tech:** `Next.js` `React` `Tailwind CSS` `Clerk` `NeonDB` `ArcJet`
-
----
-
-### 📚 Book-2-Book
-
-A project idea focused on creating a platform for **book exchange and discovery**, connecting readers and encouraging reuse of books.
-
----
-
-### ⌨️ Typing Authentication
-
-An ML-based project exploring **typing patterns as a form of behavioral authentication**.
-
-**Concepts:** `Machine Learning` `Feature Engineering` `Classification`
-
----
-
-### 💬 Question Answering GUI
-
-A desktop question-answering application built around transformer-based NLP models.
-
-**Tech:** `Python` `Tkinter` `DistilBERT`
-
----
-
-### 📄 PDF Viewer
-
-A Python desktop PDF viewer designed with performance and usability in mind.
-
-**Features include:**
-
-* PDF rendering
-* Page navigation
-* Sidebar thumbnails
-* Search & highlights
-* Zoom
-* Fit-to-width
-* Keyboard shortcuts
-* Theme support
-* Large-document performance
-
-**Tech:** `Python` `Tkinter` `PyMuPDF` `Pillow`
-
----
-
-## 🏆 Hackathons & CTF
-
-### 🏴 KJSSE CTF 3.0
-
-Shortlisted for the **CTF Finals Round** at KJ Somaiya School of Engineering.
-
-📅 28 February 2026
-
-👥 Team: **Ishika & Tasbiya**
-
----
-
-### 💻 FEC Mumbai Hackathon 2025
-
-Participated in a collaborative hackathon environment focused on solving real-world technical problems.
-
----
-
-## 💼 Experience & Programs
-
-### 🔹 NEXONICA Systems Pvt. Ltd.
-
-**Full Stack Development Internship**
-
-Worked on a **Full Stack Journal Application with Mood Tracking**.
-
----
-
-### 🔹 Proxenix
-
-**Data Science & Analytics Internship**
-
-Worked with concepts related to data analysis and machine learning.
-
----
-
-### 🔹 AICTE Google AI/ML Internship
-
-Participated in an AI/ML-focused internship program.
-
----
-
-### 🔹 AWS Academy
-
-Completed the **Data Engineering** program.
-
----
-
-## 🧠 Currently Learning
-
-```text
-Rust
-   ↓
-Systems Programming
-   ↓
-Distributed Systems
-   ↓
-DaemonOE
-```
-
-Alongside this, I'm strengthening:
-
-`DSA` • `Computer Networks` • `DBMS` • `Operating Systems` • `Cybersecurity` • `AI/ML`
-
----
-
-## 📜 Certifications & Learning
-
-My learning journey includes certifications and programs across:
-
-* 🛡️ Cybersecurity
-* 🤖 Artificial Intelligence & Machine Learning
-* ☁️ AWS
-* 📊 Data Science
-* 🗄️ Data Engineering
-* 💻 Software Development
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
@@ -349,21 +169,6 @@ My learning journey includes certifications and programs across:
 
 ---
 
-## ✨ Beyond Code
-
-```text
-Poetry       → words that think
-Sketching    → ideas without syntax
-Music        → ukulele • singing
-Dance        → movement
-Stargazing   → wondering
-Technology   → building
-
-Somewhere between all of them,
-I keep creating.
-```
-
----
 
 <p align="center">
 
