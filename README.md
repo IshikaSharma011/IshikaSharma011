@@ -156,7 +156,7 @@ Outside technology, I'm into **poetry, sketching, dancing, singing, ukulele, con
 
 ---
 <p align="center">
-###  Visit my Portfolio
+## Visit My Portfolio 
 
 <a href="https://ishikasharrmaportfolio.vercel.app/" target="_blank">
 <br>
@@ -170,7 +170,6 @@ Outside technology, I'm into **poetry, sketching, dancing, singing, ukulele, con
 <br>
 
 </p>
----
 
 
 <p align="center">
