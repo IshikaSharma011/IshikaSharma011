@@ -155,9 +155,9 @@ Outside technology, I'm into **poetry, sketching, dancing, singing, ukulele, con
 </p>
 
 ---
-<p align="center">
-## Visit My Portfolio 
 
+## Visit My Portfolio
+<p align="center">
 <a href="https://ishikasharrmaportfolio.vercel.app/" target="_blank">
 <br>
 <img src="https://komarev.com/ghpvc/?username=ishikasharma011&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
